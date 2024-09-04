@@ -23,7 +23,7 @@ The Image Slider App is a React-based application that allows users to view and 
 
 - **React**: For building the interactive user interface and managing component states.
 - **Tailwind CSS**: For styling the app with utility-first classes, enabling responsive designs and smooth animations.
-- **JavaScript**: For handling dynamic behavior and user interactions.
+- **JavaScript**: For handling dynamic behaviour and user interactions.
 - **File API**: For handling file uploads and dynamically adding images.
 - **SVG Icons**: For scalable and customizable icons used in navigation controls.
 - **Vite**: As the build tool for fast development with hot module replacement and efficient bundling.
@@ -32,8 +32,8 @@ The Image Slider App is a React-based application that allows users to view and 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/image-slider-app.git
-   cd image-slider-app
+   git clone https://github.com/GauDan-2005/lunacal-task.git
+   cd lunacal-task
    ```
 
 2. **Install Dependencies**:
@@ -46,7 +46,7 @@ The Image Slider App is a React-based application that allows users to view and 
    npm run dev
    ```
 
-   Open `http://localhost:3000` in your browser to view the app.
+   Open `http://localhost:5173` in your browser to view the app.
 
 ## Usage
 
