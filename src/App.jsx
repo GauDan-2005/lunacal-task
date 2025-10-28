@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import Gallery from "./components/Gallery/Gallery";
 import Tab from "./components/Tab/Tab";
 

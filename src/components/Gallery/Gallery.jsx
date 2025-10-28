@@ -25,8 +25,11 @@ const Gallery = () => {
     if (file) {
       const newImageURL = URL.createObjectURL(file);
       setImages([...images, { src: newImageURL }]);
+      localStorage.setItem("images", images.join(","));
     }
   };
+
+  console.log(images);
 
   return (
     <Card>
